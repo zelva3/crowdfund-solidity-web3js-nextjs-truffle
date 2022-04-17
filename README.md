@@ -1,5 +1,5 @@
 # crowdfund-solidity-web3js-nextjs-truffle
-A crowdfund platform using Solidity, Web3.js and NextJs. 
+A crowdfund smart contract using Solidity, Web3.js and NextJs. 
 Which is developed using truffle framework with ganache local network
 <br />
 Compile and deploy 
