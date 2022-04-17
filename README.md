@@ -4,25 +4,25 @@ Which is developed using truffle framework with ganache local network
 
 Compile and deploy 
 
-**truffle compile**
+```truffle compile```
 
-**truffle migrate --reset**
+```truffle migrate --reset```
 
 Run Test 
 
-**truffle test**
+```truffle test```
 
 
 Used Semantic UI for Front end styling 
 
 Install semantic UI
 
-**npm install semantic-ui-react --legacy-peer-deps**
+```npm install semantic-ui-react --legacy-peer-deps```
 
 
 NextJs Routing managed using next routes
 
 Install it using
 
-****npm install next-routes --legacy-peer-deps
+```npm install next-routes --legacy-peer-deps```
 
